@@ -6,7 +6,14 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 15:09:36 +0800</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FirstBlog</title>
+      <link>/post/firstblog/</link>
+      <pubDate>Thu, 13 Mar 2025 15:09:36 +0800</pubDate>
+      <guid>/post/firstblog/</guid>
+      <description>&lt;p&gt;##这是我的第一篇博客，欢迎光临！&#xA;我是 丘越!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
